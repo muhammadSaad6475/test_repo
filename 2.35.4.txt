@@ -1,0 +1,6 @@
+['Property Name','Property Type','Location','Person Capacity',
+'Reviews','Ratings','Main Image','Detail_Url','Host Name',
+'Host Joining Date','Host Badge','Host Image','Host Tags','Host Description',
+'AirCover Title','AirCover Features','Property Description','Total Bedrooms',
+'Capacity Respectively','Amenity Group','House Rules','Safety & property',
+'Cancellation policy','Reviewer Name','Reviewer Picture','Review Date','Review Comment']
